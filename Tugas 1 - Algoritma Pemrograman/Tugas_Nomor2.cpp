@@ -1,7 +1,9 @@
 /* 
     Soal 2
-    Faiz Haidar
-    230401010232  
+    Nama: Faiz Haidar
+    NIM: 230401010232  
+    Kelas: IF102
+    Mata Kuliah: Algoritma Pemrograman
 */
 
 #include <iostream>
