@@ -18,17 +18,17 @@ Setiap field teks (name & description) disimpan dalam bentuk **ciphertext (Base6
 
 ## 📂 Struktur Folder
 
-project/
-├─ db_dump.sql
-└─ src/
-├─ config.php
-├─ db.php
-├─ crypto.php
-├─ index.php
-├─ create.php
-├─ read.php
-├─ update.php
-└─ delete.php
+📂 project
+├── 📁 src
+|   ├── 📄 config.php
+|   ├── 📃 db.php
+|   ├── 📃 crypto.php
+|   ├── 📃 index.php
+|   ├── 📃 create.php
+|   ├── 📃 read.php
+|   ├── 📃 update.php
+|   └── 📃 delete.php
+└── 📄 db_dump.sql
 
 ---
 
